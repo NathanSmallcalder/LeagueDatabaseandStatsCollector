@@ -65,3 +65,10 @@ if __name__ == "__main__":
 ```
 ## Find the Dataset on [Kaggle](https://www.kaggle.com/datasets/nathansmallcalder/lol-match-history-and-summoner-data-80k-matches)
 
+## Config File
+
+to run the project you will need a Riot Games API Key then create a config.py file.
+
+```python
+api_key = "RGAPI"
+```
