@@ -53,8 +53,9 @@ def collect_summoner_names(start_summoner_name, region_start, tagline, output_fi
 
 
 if __name__ == "__main__":
-    start_summoner_name = "Andolos"
+    start_summoner_name = ""
     region_start = "europe"
     tagline = "EUW "
     output_file = "summoner_names.txt"
     collect_summoner_names(start_summoner_name, region_start, tagline, output_file)
+
